@@ -18,6 +18,7 @@ PCs / End Devices
   - VLAN creation and management on switches
   - Assigning ports to VLANs
   - Inter-VLAN communication concepts
+  - Small Office, Home Office (SOHO)
 
    **Router Configuration**
   - Router setup and basic routing
